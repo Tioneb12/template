@@ -7,6 +7,7 @@ require 'fileutils'
 def add_gems
   gem 'devise'
   gem 'simple_form'
+  gem 'friendly_id'
 end
 
 def setup_simple_form
